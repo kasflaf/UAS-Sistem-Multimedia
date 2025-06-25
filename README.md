@@ -282,11 +282,6 @@ python -m pip install numpy matplotlib scipy pillow pydub
 - **Quantization**: Standard JPEG quantization tables
 - **Precision**: 8-bit per channel
 
-## Kontributor
-
-**Proyek UAS Sistem Multimedia**  
-Implementasi Teknik Pemrosesan Multimedia Digital
-
 ---
 
 ### License
